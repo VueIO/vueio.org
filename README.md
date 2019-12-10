@@ -1,2 +1,2 @@
-# vuejs.org
+# vueio.org
 The official documentation site for VueIO.js.
